@@ -55,7 +55,7 @@ button {
 button:hover,
 button:focus {
     font-weight: bold;
-    box-shadow: 1px 1px 5px 2px lightgray;
+    box-shadow: 1px 1px 5px 20px lightgray;
 }
 
 #text-output {
